@@ -1,16 +1,12 @@
-# untitled24
+Flutter Uygulaması Örneği
+Bu örnek kod, Flutter framework kullanarak nasıl bir uygulama oluşturabileceğinizi gösterir. Kod, ekranda checkbox ve text widgeti içeren bir material uygulaması, ve tıklamalara göre renk ve boyut değişebilen bir AnimatedContainer widgeti içermektedir.
 
-A new Flutter project.
+Nasıl Kullanılır
+Bu kodu kopyalayıp, IDE veya metin editörünüzde açabilirsiniz. İsterseniz kodu değiştirebilir ve uygulamanıza özelleştirebilirsiniz. Uygulamayı çalıştırmak için, IDE üzerinden "main.dart" dosyasını çalıştırmanız yeterlidir.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Example Flutter Application
+This code sample demonstrates how to create an application using the Flutter framework. The code includes a material application with a checkbox and text widget on the screen, and an AnimatedContainer widget that can change color and size based on taps.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to Use
+Copy the code and open it in your IDE or text editor. You can modify the code and customize it for your application. To run the application, simply run the "main.dart" file from your IDE.
